@@ -1,0 +1,11 @@
+streamlit
+pandas
+textblob
+transformers
+seaborn
+matplotlib
+openpyxl
+snowflake-snowpark-python
+snowflake-connector-python
+snowflake-sqlalchemy
+requests
